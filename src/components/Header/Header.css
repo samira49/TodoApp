@@ -1,0 +1,10 @@
+.Header{
+    text-align: center;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+.Header h1{
+    margin: 0 auto;
+}

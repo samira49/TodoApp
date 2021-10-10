@@ -1,0 +1,6 @@
+body {
+  min-height: 100vh;
+  display: grid;
+  align-items: start;
+  justify-items: center;
+}
